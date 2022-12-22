@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Ajaiswal\Desktop\BackendTesting\employee_management_system"/>
+			<item value="C:\Users\Ajaiswal\Downloads\EmployeeManagement"/>
+			<item value="C:\Users\Ajaiswal\Desktop\github\employee_management_system"/>
+			<item value="C:\Users\Ajaiswal\Downloads\EstuateEmployeeManagementSystem"/>
+			<item value="C:\Users\Ajaiswal\Downloads\AjayEmployeeManagementSystem 14Monday\AjayEmployeeManagementSystem"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="Estuate"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
